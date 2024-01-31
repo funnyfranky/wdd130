@@ -1,0 +1,65 @@
+/* * {
+    border: 1px solid blue;
+} */
+
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #ffa4cc;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif;
+    
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+h1:hover {
+    color: black;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+li {
+    font-weight: bold;
+}
+
+.box {
+    width: 450px;
+    margin: 0 auto;
+}
+
+.fullpageimg {
+    width: 30%;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+.style1 {
+    color: white;
+    text-align: center;
+}
+
+.style2 {
+    font-size: small;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#quote {
+    font-size:200%;
+    color: white;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 8%;
+}
+
