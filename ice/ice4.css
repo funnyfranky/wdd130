@@ -55,6 +55,7 @@ li {
 }
 
 #quote {
+    font-family: 'Merriweather', serif;
     font-size:200%;
     color: white;
     width: 60%;
