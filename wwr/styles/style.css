@@ -84,6 +84,10 @@ footer p a:hover {
     max-width: 80px;
 }
 
+.card-img {
+    max-width: 360px;
+}
+
 #background {
     height: 725px;
     background-color: #FFFFFF;
