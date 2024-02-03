@@ -58,7 +58,7 @@ li {
     font-family: 'Merriweather', serif;
     font-size:200%;
     color: white;
-    width: 60%;
+    max-width: 60%;
     text-align: center;
     margin: 0 auto;
     padding: 8%;
