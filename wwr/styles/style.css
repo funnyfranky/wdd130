@@ -45,7 +45,8 @@ nav {
 nav a {
     text-align: center;
     text-decoration: none;
-    padding: 35px;
+    padding: 25px;
+
 }
 
 nav a:hover {
@@ -96,6 +97,8 @@ footer .social img {
 
 .logo {
     padding-top: 5px;
+    padding-left: 5px;
+
 }
 
 .mountains {
