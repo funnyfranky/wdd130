@@ -255,6 +255,10 @@ footer .social img {
     align-self: center;
 }
 
+.block_display {
+    display: block;
+}
+
 
 
 @media screen and (max-width: 900px) {
