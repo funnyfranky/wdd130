@@ -69,7 +69,7 @@ main section img {
 footer {
     background-color: steelblue;
     color: white;
-    padding: 25px 50px;
+    /* padding: 25px 50px; */
     /* margin-top: 200px; */
     display: flex;
     justify-content: space-around;
@@ -209,6 +209,10 @@ footer .social img {
     grid-column: 6/10;
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #6f7364;
+}
+
+.flex_section {
+    display: flex;
 }
 
 #background {
