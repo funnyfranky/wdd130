@@ -223,6 +223,8 @@ img {
 
 .about_img {
     max-width: 360px;
+    border: 1px solid black;
+    border-radius: 10px;
 }
 
 .img_right {
