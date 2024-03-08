@@ -84,9 +84,9 @@ footer a:hover {
     color:rgb(179, 179, 179);
 }
 
-footer p {
-    font-size: 1.2em;
-}
+/* footer p {
+    font-size: 1em;
+} */
 
 footer p a:hover {
     text-decoration: underline;
