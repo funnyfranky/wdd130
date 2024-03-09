@@ -222,6 +222,7 @@ img {
 }
 
 .about_img {
+    width: 60%;
     max-width: 360px;
     border: 1px solid black;
     border-radius: 10px;
@@ -237,17 +238,15 @@ img {
     margin: 0 15px 0 0;    
 }
 
-.text-image-container img {
-    max-height: 100%;
-    max-height: auto;
-}
+/* .text-image-container img {
+} */
 
 .about-card {
+    display: block;
     margin: 50px auto;
     padding: 0 20px;
+    overflow: hidden;
 }
-
-
 
 #background {
     height: 725px;
